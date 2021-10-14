@@ -2,7 +2,7 @@
   "name": "awesome-layout-react",
   "sideEffects": false,
   "version": "0.2.0",
-  "description": "React specific wrapper for component-library",
+  "description": "React specific wrapper for awesome-layout.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lidachao111222/awesome-layout-react.git"
