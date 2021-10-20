@@ -1,7 +1,7 @@
 {
   "name": "awesome-layout-react",
   "sideEffects": false,
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "React specific wrapper for awesome-layout.",
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
     "typescript": "^3.3.4000"
   },
   "dependencies": {
-    "awesome-layout": "0.4.2"
+    "awesome-layout": "0.5.0"
   },
   "peerDependencies": {
     "react": ">=16.7.0",
